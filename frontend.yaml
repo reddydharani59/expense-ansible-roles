@@ -1,0 +1,5 @@
+- name: configuring front end
+  hosts: web
+  roles:
+  - frontend
+  

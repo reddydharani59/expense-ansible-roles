@@ -1,0 +1,5 @@
+login_user: root
+login_passwword: ExpenseApp@1
+login_host: db.daws-78s.site
+db_host: db.daws-78s.site
+
